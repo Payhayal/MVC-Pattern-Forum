@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Mike",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "How can I manage the components with MVC pattern??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "2",
+      "user": "Alison",
+      "title": "React MVVM Pattern",
+      "text": "What`s that???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "d2ec0d37-e7b0-4de4-85f2-4415006a396e",
+      "date": "2024-01-21T22:25:45.214Z",
+      "title": "ts",
+      "text": "could you give me some example about ts?",
+      "user": "Mike"
+    },
+    {
+      "id": "6d6aaad1-a057-415d-aa0a-214d8776b6e6",
+      "date": "2024-01-21T22:28:27.284Z",
+      "title": "Html",
+      "text": "What are Html tags?",
+      "user": "Jane"
+    },
+    {
+      "id": "a8e4e3d8-0b44-4702-a269-76e51d906ec9",
+      "date": "2024-01-22T01:42:33.632Z",
+      "title": "React 404",
+      "text": "What should I do?",
+      "user": "Ally"
+    },
+    {
+      "id": "e3726448-ebad-4cd2-8c07-344dadfad7a6",
+      "date": "2024-01-22T01:46:47.790Z",
+      "title": "React hooks",
+      "text": "How can I learn react hooks?",
+      "user": "Ally"
+    }
+  ]
+}
